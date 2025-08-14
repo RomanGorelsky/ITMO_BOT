@@ -1,2 +1,1 @@
-# ITMO_BOT
-Bot realisation with only basic buttons
+Basic bot with only two buttons

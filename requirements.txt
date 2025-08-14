@@ -1,0 +1,6 @@
+Flask
+python-telegram-bot
+telebot
+beautifulsoup4
+requests
+pandas
